@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Welcome to Medjed AI</h1>
   
-![](https://github.com/user-attachments/assets/c5da98e0-1d28-443a-bd51-1c3bdc6fc765)
+![medjed_dance1](https://github.com/user-attachments/assets/024d68d2-5ee0-4868-8d88-91311de54f6d)
 
 Medjed AI is a next-generation GPU cloud computing platform built specifically for AI training, inference, and high-performance workloads.
 
